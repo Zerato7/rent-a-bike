@@ -1,0 +1,15 @@
+# General
+.env
+**/.env
+**/node_modules/
+**/dist/
+
+.vscode/
+**/.vscode/
+
+# Mobile
+**/.expo
+**/expo-env.d.ts
+**/app-example
+**/ios
+**/android
