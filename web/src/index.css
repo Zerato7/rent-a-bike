@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--primary: 54 54 183; /* #3636B7 purple */
+	--primary-light: 194 194 236; /* #C2C2EC light purple */
+	--success: 36 170 90; /* #24AA5A green */
+	--success-light: 199 225 184; /* #C7E1B8 light green */
+	--danger: 215 0 0; /* #D70000 red */
+	--danger-light: 242 94 94; /* #F25E5E light red */
+	--warning: 223 234 149; /* #DFEA95 yellow */
+	--accent: 210 160 120; /* #D2A078 orange */
+	--shadow: 82 81 162; /* #5251A2 shadowy purple */
+	--neutral: 172 172 177; /* #ACACB1 gray */
+	--blackish: 29 29 52 /* 1D1D34 blackish */
+}
+
+.dark {
+	--primary: 194 194 236;
+	--primary-light: 82 81 162;
+	--success: 199 225 184;
+	--success-light: 36 170 90;
+	--danger: 215 0 0;
+	--danger-light: 145 25 25;
+	--warning: 210 160 120;
+	--accent: 223 234 149;
+	--shadow: 0 0 0;
+	--neutral: 172 172 177;
+	--blackish: 50 50 85;
+}
+
+
+
+body {
+	background-image: url("/src/assets/background-texture.svg");
+	background-size: cover;
+	background-position: center;
+}
