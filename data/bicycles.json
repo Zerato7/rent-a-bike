@@ -1,0 +1,304 @@
+[
+	{
+		"_id": {
+			"$oid": "100000000000000000000001"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10001"
+		},
+		"type": "Mountain",
+		"pricePerHour": 300,
+		"status": "Maintenance",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"qrToken": "55006612-509d-4ffc-98da-887a9d675577"
+	},
+	{
+		"_id": {
+			"$oid": "100000000000000000000002"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10002"
+		},
+		"type": "Hybrid",
+		"pricePerHour": 255,
+		"status": "Available",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"qrToken": "7a9a7a8f-a55d-4ca7-a0a8-1b01ebf7b553"
+	},
+	{
+		"_id": {
+			"$oid": "100000000000000000000003"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10003"
+		},
+		"type": "Road",
+		"pricePerHour": 200,
+		"status": "Maintenance",
+		"qrToken": "9c36887b-8aa5-4530-b981-0fbef1e1d3cf",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "100000000000000000000004"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10004"
+		},
+		"type": "Electrical",
+		"pricePerHour": 400,
+		"status": "Maintenance",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"qrToken": "3026bc42-208b-4ece-ad44-21db7a79fed5"
+	},
+	{
+		"_id": {
+			"$oid": "100000000000000000000005"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10005"
+		},
+		"type": "Hybrid",
+		"pricePerHour": 250,
+		"status": "Suspended",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"qrToken": "d7cdcadd-a3ed-4df1-a4e6-1cb36099c342"
+	},
+	{
+		"_id": {
+			"$oid": "100000000000000000000006"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10006"
+		},
+		"type": "Mountain",
+		"pricePerHour": 300,
+		"status": "Available",
+		"qrToken": "f538c48b-559b-49bf-a313-9b7808a89126",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "100000000000000000000007"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10007"
+		},
+		"type": "Road",
+		"pricePerHour": 1100,
+		"status": "Available",
+		"qrToken": "a3ad3f55-3d6d-43f1-86c1-21cacb2bd3e7",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "100000000000000000000008"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10008"
+		},
+		"type": "Electrical",
+		"pricePerHour": 450,
+		"status": "Available",
+		"qrToken": "4763672b-b5e4-4a5a-8446-26e738be7c04",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "100000000000000000000009"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10009"
+		},
+		"type": "Hybrid",
+		"pricePerHour": 380,
+		"status": "Available",
+		"qrToken": "92c09fe7-06bf-4357-ba14-9c0ecbcd92d2",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "10000000000000000000000a"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a1000a"
+		},
+		"type": "Mountain",
+		"pricePerHour": 330,
+		"status": "Available",
+		"qrToken": "85c0ce20-496d-4309-be06-a421fdb955bf",
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "69a502fef7f0f99661a6dd6a"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a1000b"
+		},
+		"type": "Road",
+		"pricePerHour": 900,
+		"status": "Maintenance",
+		"createdAt": {
+			"$date": "2026-03-02T03:24:46.778Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"__v": 0,
+		"qrToken": "bf2fbec7-1df9-4f8f-9a13-ffefad26b8c3"
+	},
+	{
+		"_id": {
+			"$oid": "69a50326f7f0f99661a6dd80"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a1000c"
+		},
+		"type": "Mountain",
+		"pricePerHour": 5000,
+		"status": "Available",
+		"createdAt": {
+			"$date": "2026-03-02T03:25:26.510Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"__v": 0,
+		"qrToken": "dc1b2841-2144-4e3b-ae47-7bfd97b4453d"
+	},
+	{
+		"_id": {
+			"$oid": "69a5177f629cc20775e95d47"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a1000d"
+		},
+		"type": "Electrical",
+		"pricePerHour": 2000,
+		"status": "Available",
+		"createdAt": {
+			"$date": "2026-03-02T04:52:15.586Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"__v": 0,
+		"qrToken": "b485b9d1-77a1-41d6-bbe3-410a960e56db"
+	},
+	{
+		"_id": {
+			"$oid": "69a519f8629cc20775e95e71"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a1000e"
+		},
+		"type": "Hybrid",
+		"pricePerHour": 10,
+		"status": "Available",
+		"createdAt": {
+			"$date": "2026-03-02T05:02:48.690Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"__v": 0,
+		"qrToken": "b43fbb5d-a211-4344-b784-9c2a21227ddc"
+	},
+	{
+		"_id": {
+			"$oid": "69a51f13629cc20775e95f7e"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a1000f"
+		},
+		"type": "Mountain",
+		"pricePerHour": 2001,
+		"status": "Available",
+		"createdAt": {
+			"$date": "2026-03-02T05:24:35.944Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"__v": 0,
+		"qrToken": "c1373c23-4a8c-47dc-8d6f-346b80e27af7"
+	},
+	{
+		"_id": {
+			"$oid": "69a5201d629cc20775e96018"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10010"
+		},
+		"type": "Mountain",
+		"pricePerHour": 1,
+		"status": "Available",
+		"createdAt": {
+			"$date": "2026-03-02T05:29:01.604Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"__v": 0,
+		"qrToken": "de70b595-b04d-4617-895f-13a68ad8bd83"
+	},
+	{
+		"_id": {
+			"$oid": "69aa8a298c572643f3ebcd57"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10011"
+		},
+		"type": "Mountain",
+		"pricePerHour": 74,
+		"status": "Available",
+		"createdAt": {
+			"$date": "2026-03-06T08:02:49.974Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-10T02:34:15.632Z"
+		},
+		"__v": 0,
+		"qrToken": "027cd10a-6ea1-4325-af06-bafbf5a5f988"
+	},
+	{
+		"_id": {
+			"$oid": "69afd1b4237c43da0c391337"
+		},
+		"location": {
+			"$oid": "666a0a1c9a3b2c0012a10018"
+		},
+		"type": "Electrical",
+		"pricePerHour": 250,
+		"status": "Available",
+		"qrToken": "7c348662-0802-4f92-85c8-141acc92610d",
+		"createdAt": {
+			"$date": "2026-03-10T08:09:24.723Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-10T08:09:24.723Z"
+		},
+		"__v": 0
+	}
+]

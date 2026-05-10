@@ -1,0 +1,132 @@
+[
+	{
+		"_id": {
+			"$oid": "69942339cb007cb90abf2d55"
+		},
+		"username": "admin1",
+		"passwordHash": "$2b$10$iuthjxNkFnJIXkiZNlFWTe31DRe1NfCDqn3990ku84qhpzIhXJFGq",
+		"firstName": "Lazarus1",
+		"lastName": "Lazić",
+		"email": "laza@gmail.com",
+		"role": "admin",
+		"createdAt": {
+			"$date": "2026-02-17T08:13:45.519Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-06T05:04:13.445Z"
+		},
+		"__v": 0,
+		"phone": "+381606776004"
+	},
+	{
+		"_id": {
+			"$oid": "69a5f99b0ace3b78701d6c48"
+		},
+		"username": "admin2",
+		"passwordHash": "$2b$10$VIXSh0c0cvVOao44UgQvfeFZt/xO7uWLWzlXo1IKl72N2/lFrX3.i",
+		"firstName": "Marija",
+		"lastName": "Kajić",
+		"email": "marar@gmail.com",
+		"role": "admin",
+		"createdAt": {
+			"$date": "2026-03-02T20:56:59.348Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-02T20:56:59.348Z"
+		},
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "69a5f9a80ace3b78701d6c4c"
+		},
+		"username": "admin3",
+		"passwordHash": "$2b$10$CZryUNdm4fGflPv4UAFR3.ClLGo7Q.Mun3Q9EOEUnRMaOUVFFq6L.",
+		"firstName": "Mika",
+		"lastName": "Mikić",
+		"email": "mika@gmail.com",
+		"role": "admin",
+		"createdAt": {
+			"$date": "2026-03-02T20:57:12.376Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-02T20:57:12.376Z"
+		},
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "69a5f73a0ace3b78701d6c34"
+		},
+		"username": "user1",
+		"passwordHash": "$2b$10$p3PI20JdMnojv0NRU2CAyutc54uNT5GtH0pB.2nn/9EM/8PbuWEXm",
+		"firstName": "Petra",
+		"lastName": "Jovović",
+		"email": "petra17@gmail.com",
+		"role": "user",
+		"createdAt": {
+			"$date": "2026-03-02T20:46:50.586Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-07T11:35:18.993Z"
+		},
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "69a5f8490ace3b78701d6c3f"
+		},
+		"username": "user2",
+		"passwordHash": "$2b$10$MwLqJq56bd8/Pxw/Ringa.SJlu.ffIFabs4hePylEwCR0QnFtLuJ.",
+		"firstName": "Andrija",
+		"lastName": "Lazić",
+		"phone": "+381641234567",
+		"email": "andrijal@gmail.com",
+		"role": "user",
+		"createdAt": {
+			"$date": "2026-03-02T20:51:21.615Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-02T20:51:21.615Z"
+		},
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "69a5f8780ace3b78701d6c43"
+		},
+		"username": "user3",
+		"passwordHash": "$2b$10$2H7uSXruaQ4x/bgQ7DmnC.QllJHY6E/HKAiNd1b05/oINJPcxkj.2",
+		"firstName": "Jova",
+		"lastName": "Ježić",
+		"phone": "+381618002346",
+		"email": "ezzz@gmail.com",
+		"role": "user",
+		"createdAt": {
+			"$date": "2026-03-02T20:52:08.790Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-02T20:52:08.790Z"
+		},
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "69ab56092a8426cf4d5b1915"
+		},
+		"username": "user4",
+		"passwordHash": "$2b$10$8ybH0rstzNRPpddWSyrZIedK7xbk2veYBLCcxrT7U3f47H3zVgKji",
+		"firstName": "Pori",
+		"lastName": "Jajić",
+		"phone": "",
+		"email": "pori@gmail.com",
+		"role": "user",
+		"createdAt": {
+			"$date": "2026-03-06T22:32:41.442Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-06T22:32:41.442Z"
+		},
+		"__v": 0
+	}
+]

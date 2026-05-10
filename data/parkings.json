@@ -1,0 +1,62 @@
+[
+	{
+		"_id": {
+			"$oid": "69af482bd6eb4bda9be7abc0"
+		},
+		"name": "Slavija Square Bike Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.466, 44.8025]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "69af482bd6eb4bda9be7abc1"
+		},
+		"name": "Cvetni Trg Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4645, 44.8062]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "69af482bd6eb4bda9be7abc2"
+		},
+		"name": "Saint Sava Temple Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4672, 44.7981]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "69af482bd6eb4bda9be7abc3"
+		},
+		"name": "BW Residences Bike Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4462, 44.8038]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "69af482bd6eb4bda9be7abc4"
+		},
+		"name": "Kalemegdan Entrance Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.456, 44.822]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "69af482bd6eb4bda9be7abc5"
+		},
+		"name": "Topčidersko brdo Bike Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.45715, 44.786897]
+		}
+	}
+]

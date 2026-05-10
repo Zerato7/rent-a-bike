@@ -1,0 +1,107 @@
+[
+	{
+		"_id": {
+			"$oid": "69a6517163154b9a1323d1fe"
+		},
+		"userId": {
+			"$oid": "69a5f8780ace3b78701d6c43"
+		},
+		"bikeId": {
+			"$oid": "69a502fef7f0f99661a6dd6a"
+		},
+		"description": "something happened...",
+		"photo": "/uploads/issues/photo-1772507505059-574949639.png",
+		"status": "Repair",
+		"createdAt": {
+			"$date": "2026-03-03T03:11:45.080Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-03T03:25:34.178Z"
+		},
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "69a6519f63154b9a1323d202"
+		},
+		"userId": {
+			"$oid": "69a5f8490ace3b78701d6c3f"
+		},
+		"bikeId": {
+			"$oid": "69a502fef7f0f99661a6dd6a"
+		},
+		"description": "A lot happened, in the end it all blew up",
+		"photo": "/uploads/issues/photo-1772507551193-536436108.png",
+		"status": "Ignore",
+		"createdAt": {
+			"$date": "2026-03-03T03:12:31.204Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-03T03:26:42.115Z"
+		},
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "69a653a963154b9a1323d275"
+		},
+		"userId": {
+			"$oid": "69a5f8490ace3b78701d6c3f"
+		},
+		"bikeId": {
+			"$oid": "69a5201d629cc20775e96018"
+		},
+		"description": "Ugh...",
+		"photo": "/uploads/issues/photo-1772508073179-996085680.png",
+		"status": "Unresolved",
+		"createdAt": {
+			"$date": "2026-03-03T03:21:13.193Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-03T22:47:32.848Z"
+		},
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "69accc1ceadf33f94325250e"
+		},
+		"userId": {
+			"$oid": "69a5f73a0ace3b78701d6c34"
+		},
+		"bikeId": {
+			"$oid": "100000000000000000000008"
+		},
+		"description": "Hi",
+		"photo": "/uploads/issues/photo-1772932124026-549890157.jpg",
+		"status": "Unresolved",
+		"createdAt": {
+			"$date": "2026-03-08T01:08:44.121Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-08T01:08:44.121Z"
+		},
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "69acd378eadf33f943252561"
+		},
+		"userId": {
+			"$oid": "69a5f73a0ace3b78701d6c34"
+		},
+		"bikeId": {
+			"$oid": "69a50326f7f0f99661a6dd80"
+		},
+		"description": "HEROOO",
+		"photo": "/uploads/issues/photo-1772934008517-51694589.jpg",
+		"status": "Unresolved",
+		"createdAt": {
+			"$date": "2026-03-08T01:40:08.552Z"
+		},
+		"updatedAt": {
+			"$date": "2026-03-08T01:40:08.552Z"
+		},
+		"__v": 0
+	}
+]

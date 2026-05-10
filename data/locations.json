@@ -1,0 +1,312 @@
+[
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10001"
+		},
+		"name": "Nemanjina Street Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.454, 44.8015]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10002"
+		},
+		"name": "Manjež Park Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4636, 44.80499]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10003"
+		},
+		"name": "Karađorđe's Park Area",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4658, 44.7958]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10004"
+		},
+		"name": "Galerija Belgrade Parking Garage",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.44441, 44.80145]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10005"
+		},
+		"name": "Old Town Belgrade Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.46046, 44.81961]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10006"
+		},
+		"name": "Republic Square",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4612, 44.8162]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10007"
+		},
+		"name": "Studentski Trg Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4583, 44.8191]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10008"
+		},
+		"name": "Obilićev Venac Garage Area",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4571, 44.8155]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10009"
+		},
+		"name": "Skadarlija Bohemian Quarter",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4641, 44.8185]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1000a"
+		},
+		"name": "Dorćol Quay Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.461, 44.8275]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1000b"
+		},
+		"name": "Ušće Shopping Center Area",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4372, 44.8152]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1000c"
+		},
+		"name": "Štark Arena North Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4215, 44.8145]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1000d"
+		},
+		"name": "Sava Center Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4305, 44.8092]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1000e"
+		},
+		"name": "Zemun Quay",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4152, 44.8431]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1000f"
+		},
+		"name": "Gardoš Tower Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4101, 44.8485]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10010"
+		},
+		"name": "Kalenić Market",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4762, 44.8011]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10011"
+		},
+		"name": "Autokomanda Square Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4655, 44.7892]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10012"
+		},
+		"name": "Ada Ciganlija Entrance",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4175, 44.7875]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10013"
+		},
+		"name": "Tašmajdan Park Area",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4715, 44.8105]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10014"
+		},
+		"name": "Bežanijska Kosa District",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.3855, 44.8192]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10015"
+		},
+		"name": "Delta City Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4052, 44.8078]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10016"
+		},
+		"name": "Hotel Yugoslavia Quay",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4195, 44.8322]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10017"
+		},
+		"name": "Vukov Spomenik Area",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4782, 44.8055]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10018"
+		},
+		"name": "Topličin Venac Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4545, 44.8168]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a10019"
+		},
+		"name": "Blok 45 Riverbank",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.3882, 44.7935]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1001a"
+		},
+		"name": "Slavija Square Bike Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.466, 44.8025]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1001b"
+		},
+		"name": "Cvetni Trg Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4645, 44.8062]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1001c"
+		},
+		"name": "Saint Sava Temple Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4672, 44.7981]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1001d"
+		},
+		"name": "BW Residences Bike Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.4462, 44.8038]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1001e"
+		},
+		"name": "Kalemegdan Entrance Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.456, 44.822]
+		}
+	},
+	{
+		"_id": {
+			"$oid": "666a0a1c9a3b2c0012a1001f"
+		},
+		"name": "Topčidersko brdo Bike Parking",
+		"location": {
+			"type": "Point",
+			"coordinates": [20.45715, 44.786897]
+		}
+	}
+]
